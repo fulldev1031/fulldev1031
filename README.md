@@ -3,7 +3,7 @@
 
 ### **🚀 Smart Systems Reconstruction & Scalable Development**  
 
-Hi there! I love **solving complex software puzzles**—whether it’s **reviving lost codebases, optimizing enterprise applications, or building high-performance systems from the ground up**. My work is all about **making software smarter, faster, and more efficient** by blending **AI-powered insights, deep system analysis, and modern engineering techniques**.  
+Hi there! I love **solving complex software puzzles**—whether it’s **reviving lost codebases, optimizing enterprise applications, building high-performance systems, or crafting seamless mobile experiences**. My work is all about **making software smarter, faster, and more efficient** by blending **AI-powered insights, deep system analysis, and modern engineering techniques**.  
 
 ---
 
@@ -19,6 +19,15 @@ Hi there! I love **solving complex software puzzles**—whether it’s **revivin
 - Built **robust data pipelines, efficient stored procedures, and modular API-driven architectures** for seamless system functionality.  
 - Implemented **real-time data synchronization, caching strategies, and message queue-based event handling** for **high-performance** systems.  
 - Deep expertise in **security, authentication (OAuth, JWT, SAML), encryption, and database efficiency** to ensure **scalable and resilient enterprise operations**.  
+
+---
+
+## **📱 Mobile App Development & Optimization**  
+- Developed **cross-platform mobile apps** using **React Native, Flutter, and Xamarin** for seamless Android & iOS experiences.  
+- Built **native Android apps** with **Kotlin and Java**, ensuring high performance and smooth user interactions.  
+- Created **iOS applications** using **Swift and SwiftUI**, leveraging modern Apple frameworks for clean UI and optimized functionality.  
+- Integrated **REST APIs, GraphQL, Firebase, and WebSockets** for real-time and cloud-connected mobile applications.  
+- Experience with **push notifications (FCM & APNs), in-app purchases, biometric authentication, and offline-first architectures**.  
 
 ---
 
@@ -43,7 +52,14 @@ Hi there! I love **solving complex software puzzles**—whether it’s **revivin
 ## **🛠 Extensive Technical Skill Set**  
 
 ### **✅ Programming Languages**  
-- **Python, JavaScript, TypeScript, C++, C#, PHP, Ruby, Go, Rust**  
+- **Python, JavaScript, TypeScript, Swift, Kotlin, Java, C++, C#, PHP, Ruby, Go, Rust**  
+
+### **✅ Mobile App Development**  
+- **Cross-Platform:** React Native, Flutter, Xamarin  
+- **Native Android:** Kotlin, Java, Jetpack Compose  
+- **Native iOS:** Swift, SwiftUI, Objective-C  
+- **Mobile Backend & Cloud Services:** Firebase, AWS Amplify, Google Cloud, Azure Mobile Services  
+- **Mobile UI & Animations:** Lottie, Skia, Custom UI Components  
 
 ### **✅ Front-End Development**  
 - React.js, Next.js, Redux, Angular, Vue.js, Svelte, TailwindCSS, Bootstrap  
@@ -79,3 +95,4 @@ I thrive on **complex technical challenges** and love working on projects that p
 
 ### 📫 **Get In Touch**  
 Feel free to reach out with any questions or to discuss your project further. My goal is to help you **build, optimize, and future-proof your applications** with cutting-edge technology. Let’s start building something amazing together!  
+
